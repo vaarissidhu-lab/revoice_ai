@@ -554,7 +554,7 @@ const VoiceCloneDemo = () => {
 
 const VoiceCloneRedirect = () => {
   const handleRedirect = () => {
-    window.open('https://huggingface.co/spaces/Haryiank/E2-F5-TTS', '_blank');
+    window.open('https://huggingface.co/spaces/vaarissidhu/E2-F5-TTS', '_blank');
   };
 
   return (
@@ -595,7 +595,7 @@ const VoiceCloneRedirect = () => {
 
 const SignLanguageRedirect = () => {
   const handleRedirect = () => {
-    window.open('https://huggingface.co/spaces/Haryiank/ASL_Sign_Lang', '_blank');
+    window.open('https://huggingface.co/spaces/vaarissidhu/ASL_Sign_Lang', '_blank');
   };
 
   return (
