@@ -9,7 +9,7 @@ This repository brings together **three domains** where AI meets real-world appl
 
 ---
 
-## 📌 Projects Overview  
+## 📌 Projects Overview -> 
 
 ### 1️⃣ Voice Cloning / Generation 🎙️  
 **Goal**: Recreate human-like voices or clone a specific voice for personalized TTS (Text-to-Speech).  
