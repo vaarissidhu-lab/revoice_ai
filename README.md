@@ -1,4 +1,4 @@
-# 🧠 AI Projects – Haryiank Kumra  
+# 🧠 AI Projects – Vaaris Sidhu  
 
 Welcome to my AI/ML project collection!  
 This repository brings together **three domains** where AI meets real-world applications:  
